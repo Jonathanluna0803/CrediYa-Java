@@ -108,3 +108,18 @@ git branch -M main
 git remote add origin https://github.com/TU_USUARIO/crediya.git
 git push -u origin main
 ```
+
+
+
+
+## link UML
+
+https://drive.google.com/file/d/1aVO24DAwEYOl_CxekfyQ3q6pWkIakdcG/view?usp=sharing
+
+
+
+## Imagen UML
+
+
+<img width="1917" height="949" alt="image" src="https://github.com/user-attachments/assets/b547d1e1-bb62-44bf-8ab6-8cd93906d5f5" />
+
